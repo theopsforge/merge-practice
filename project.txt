@@ -2,3 +2,5 @@ Project started
 Main branch development begins
 Main branch feature: user authentication
 Main branch feature: reporting dashboard
+Feature branch: payment processing
+Feature branch: notification system
