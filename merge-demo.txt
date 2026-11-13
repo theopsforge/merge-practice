@@ -1,2 +1,3 @@
 Maximum users: 200
-Application name: BookBot
+Application name: BookBot Pro
+
