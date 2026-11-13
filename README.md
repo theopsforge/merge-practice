@@ -30,7 +30,7 @@ The main objectives of this repository are to develop practical experience with:
 
 ## Why This Repository Preserves Its Git History
 
-This repository is a practical learning portfolio documenting my journey toward mastering Git and GitHub as part of my DevOps development.
+This repository is a practical learning portfolio documenting my journey toward developing practical Git and GitHub skills as part of my DevOps development.
 
 Rather than combining all exercises into a single branch, I have intentionally preserved the relevant branches and commit history. Each branch represents part of my hands-on learning and demonstrates how different Git operations work in practice.
 
