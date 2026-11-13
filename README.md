@@ -96,7 +96,7 @@ My practical learning environment includes:
 
 This repository is an evolving learning portfolio.
 
-Additional exercises and documentation will be added as I progress through Git remote repositories, GitHub collaboration, `.gitignore`, and other related workflows.
+Additional exercises and documentation will be added as I progress through Git remote repositories, GitHub collaboration, and other related workflows. Practical exercises covering `.gitignore` and repository hygiene have already been completed and documented in the repository history.
 
 The repository will continue to reflect my actual learning progress rather than claim expertise beyond the evidence demonstrated.
 
