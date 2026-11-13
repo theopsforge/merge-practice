@@ -1,2 +1,2 @@
-Maximum users: 100
+Maximum users: 200
 Application name: BookBot
