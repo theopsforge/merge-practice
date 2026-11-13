@@ -1,1 +1,2 @@
 Feature: Add user authentication
+Feature: Add payment processing
